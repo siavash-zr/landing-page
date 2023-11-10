@@ -1,3 +1,5 @@
-header {
-    background-color: black;
+.Header_container {
+    height: 240px ;
+    padding: 16px ;
+    background: #1F2937 ;
 }
