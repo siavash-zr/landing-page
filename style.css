@@ -9,10 +9,10 @@
     display: flex;
     gap: 10px;
     justify-content: flex-end;
+    color: #e5e5eb;
     
 }
 .header_link {
-    color: #e5e5eb;
     display: flex;
     margin-top: 10px;
 }
@@ -26,7 +26,17 @@
     display: flex;
 
 }
-#image1 {
-  width: 46px;
-  height: 46px;
+#image {
+    display: flex;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 70px;
+    flex: 1;
+}
+.Header_and_pa{
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;  
+    flex-direction: column;
+    color: #F9FAF8;
 }
