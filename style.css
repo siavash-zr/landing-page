@@ -3,3 +3,30 @@
     padding: 16px ;
     background: #1F2937 ;
 }
+#header_link_container{
+    height: 24px;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    
+}
+.header_link {
+    color: #e5e5eb;
+    display: flex;
+    margin-top: 10px;
+}
+#Header_logo{
+    color: #E5E7EB;
+    height:10px;
+    display: flex;
+}
+.Header_main{
+    height: 200px;
+    display: flex;
+
+}
+#image1 {
+  width: 46px;
+  height: 46px;
+}
